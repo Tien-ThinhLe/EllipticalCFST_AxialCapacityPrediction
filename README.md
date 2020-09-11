@@ -3,8 +3,8 @@ The machine learning model was developed based on a hybrid combination between A
 
 After selecting the value of input variables, the axial capacity of CFST columns is displayed directly by clicking the Start Predict button.
 
-Contributor: Tien-Thinh Le, Hai-Bang Ly, Binh Thai Pham
+Contributor: Tien-Thinh Le
 
-Reference: Tien-Thinh Le, Hai-Bang Ly, Binh Thai Pham, Pratical Hybrid Machine Learning Approach for Estimation of Ultimate Load of Elliptical Concrete-Filled Steel Tubular Columns under Axial Loading, 2020
+Reference: Pratical Hybrid Machine Learning Approach for Estimation of Ultimate Load of Elliptical Concrete-Filled Steel Tubular Columns under Axial Loading, 2020
 
-Email: letienthinh@duytan.edu.vn; tienthinhle.vn@gmail.com
+Email: tienthinhle.vn@gmail.com
