@@ -5,6 +5,6 @@ After selecting the value of input variables, the axial capacity of CFST columns
 
 Contributor: Tien-Thinh Le
 
-Reference: Pratical Hybrid Machine Learning Approach for Estimation of Ultimate Load of Elliptical Concrete-Filled Steel Tubular Columns under Axial Loading, 2020
+Reference: Le, T.-T. Practical Hybrid Machine Learning Approach for Estimation of Ultimate Load of Elliptical Concrete-Filled Steel Tubular Columns under Axial Loading. Advances in Civil Engineering 2020, 2020, e8832522. https://doi.org/10.1155/2020/8832522.
 
-Email: tienthinhle.vn@gmail.com
+Email: thinh.letien@phenikaa-uni.edu.vn; tienthinhle.vn@gmail.com
